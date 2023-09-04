@@ -2,7 +2,7 @@
   "name": "platepal",
   "version": "1.0.0",
   "description": "This is a app made with namaste react live course",
-  "homepage": "https://siddharth189.github.io/platepal/",
+  "homepage": "https://github.com/yuvknightt/platepal",
   "scripts": {
     "predeploy": "npm run build",
     "build": "parcel build index.html",
@@ -10,7 +10,7 @@
     "start": "npx parcel index.html",
     "test": "jest"
   },
-  "author": "Siddharth Singh",
+  "author": "Yuvraj Singh",
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^5.0.0",

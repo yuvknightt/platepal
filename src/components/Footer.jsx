@@ -4,7 +4,7 @@ const Footer = () => (
   <div className="footer">
     <h2>
       Made with ❤️ by{" "}
-      <Link to={"https://github.com/Siddharth189"}>Siddharth189</Link>{" "}
+      <Link to={"https://github.com/yuvknightt"}>YUVRAJ SINGH</Link>{" "}
     </h2>
   </div>
 );
